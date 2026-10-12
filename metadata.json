@@ -1,0 +1,6 @@
+{
+  "name": "be.anywhr",
+  "description": "Precision mock GPS location spoofer with customizable overlay joystick, route multi-point simulation, drift randomizer, bookmarks, and dual Full & Lite modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

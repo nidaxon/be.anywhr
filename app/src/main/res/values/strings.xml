@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">be.anywhr</string>
+    <string name="title_mock_gps">be.anywhr</string>
+    <string name="desc_tagline">Precision Location Spoofer</string>
+
+    <!-- Version Modes -->
+    <string name="mode_full">FULL Mode (Interactive Map)</string>
+    <string name="mode_lite">LITE Mode (Quick Coordinates)</string>
+    <string name="mode_full_short">FULL</string>
+    <string name="mode_lite_short">LITE</string>
+
+    <!-- Controls -->
+    <string name="start_mock">Start Spoofing</string>
+    <string name="stop_mock">Stop Spoofing</string>
+    <string name="status_mocking">Mocking Active</string>
+    <string name="status_idle">Idle / Real GPS</string>
+    <string name="teleport_here">Teleport Here</string>
+    <string name="set_coordinates">Set Coordinates</string>
+
+    <!-- Joystick -->
+    <string name="joystick">Overlay Joystick</string>
+    <string name="joystick_size">Joystick Size</string>
+    <string name="joystick_opacity">Opacity</string>
+    <string name="joystick_speed">Walking Speed</string>
+    <string name="joystick_lock">Walk Lock</string>
+    <string name="floating_overlay">Floating System Overlay</string>
+
+    <!-- Trip & Route -->
+    <string name="auto_trip">Auto Route Trip</string>
+    <string name="route_planner">Route Planner</string>
+    <string name="add_waypoint">Add Waypoint</string>
+    <string name="clear_route">Clear Route</string>
+    <string name="start_trip">Start Trip</string>
+    <string name="pause_trip">Pause</string>
+    <string name="resume_trip">Resume</string>
+    <string name="stop_trip">Stop</string>
+    <string name="mode_one_way">One-Way</string>
+    <string name="mode_loop">Repeat Loop</string>
+    <string name="mode_reverse">Reverse (Ping-Pong)</string>
+
+    <!-- Drift Randomizer -->
+    <string name="drift_mode">Randomize Drift</string>
+    <string name="drift_radius">Area Radius</string>
+    <string name="drift_timer">Repick Interval</string>
+    <string name="drift_smooth">Smooth Drift</string>
+    <string name="drift_instant">Instant Jump</string>
+    <string name="start_drift">Start Drift</string>
+    <string name="stop_drift">Stop Drift</string>
+
+    <!-- Bookmarks -->
+    <string name="bookmarks">Bookmarks</string>
+    <string name="save_bookmark">Save Location</string>
+    <string name="bookmark_name">Location Name</string>
+    <string name="bookmark_category">Category</string>
+    <string name="bookmark_notes">Notes / Description</string>
+    <string name="no_bookmarks">No saved locations yet</string>
+
+    <!-- Import / Export -->
+    <string name="import_export">Import / Export</string>
+    <string name="export_csv">Export CSV</string>
+    <string name="export_kml">Export KML</string>
+    <string name="import_data">Import File / Data</string>
+    <string name="share_file">Share File</string>
+    <string name="copy_clipboard">Copy to Clipboard</string>
+
+    <!-- Search -->
+    <string name="search_hint">Search city, address, or landmark...</string>
+    <string name="search_presets">Popular World Spots</string>
+
+    <!-- Developer Options -->
+    <string name="dev_options_title">Mock Location Setup</string>
+    <string name="dev_options_msg">To spoof GPS, GeoShift must be selected as your Mock Location App in Android Developer Options.</string>
+    <string name="open_dev_options">Open Developer Options</string>
+
+    <!-- Settings -->
+    <string name="settings">Settings</string>
+    <string name="theme">Theme</string>
+    <string name="language">Language</string>
+    <string name="theme_system">System</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+</resources>

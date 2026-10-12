@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">be.anywhr</string>
+    <string name="title_mock_gps">be.anywhr</string>
+    <string name="desc_tagline">Pemalsu Lokasi Presisi</string>
+
+    <!-- Version Modes -->
+    <string name="mode_full">Mode LENGKAP (Peta Interaktif)</string>
+    <string name="mode_lite">Mode RINGAN (Koordinat Cepat)</string>
+    <string name="mode_full_short">LENGKAP</string>
+    <string name="mode_lite_short">RINGAN</string>
+
+    <!-- Controls -->
+    <string name="start_mock">Mulai Palsukan GPS</string>
+    <string name="stop_mock">Hentikan Pemalsuan</string>
+    <string name="status_mocking">GPS Palsu Aktif</string>
+    <string name="status_idle">Nonaktif / GPS Asli</string>
+    <string name="teleport_here">Teleport ke Sini</string>
+    <string name="set_coordinates">Atur Koordinat</string>
+
+    <!-- Joystick -->
+    <string name="joystick">Overlay Joystick</string>
+    <string name="joystick_size">Ukuran Joystick</string>
+    <string name="joystick_opacity">Transparansi</string>
+    <string name="joystick_speed">Kecepatan Gerak</string>
+    <string name="joystick_lock">Kunci Langkah</string>
+    <string name="floating_overlay">Joystick Mengambang</string>
+
+    <!-- Trip & Route -->
+    <string name="auto_trip">Perjalanan Otomatis</string>
+    <string name="route_planner">Perencana Rute</string>
+    <string name="add_waypoint">Tambah Titik Singgah</string>
+    <string name="clear_route">Hapus Rute</string>
+    <string name="start_trip">Mulai Rute</string>
+    <string name="pause_trip">Jeda</string>
+    <string name="resume_trip">Lanjutkan</string>
+    <string name="stop_trip">Berhenti</string>
+    <string name="mode_one_way">Satu Arah</string>
+    <string name="mode_loop">Ulangi Rute (Loop)</string>
+    <string name="mode_reverse">Bolak-Balik (Ping-Pong)</string>
+
+    <!-- Drift Randomizer -->
+    <string name="drift_mode">Pergeseran Acak (Drift)</string>
+    <string name="drift_radius">Radius Area</string>
+    <string name="drift_timer">Interval Acak Ulang</string>
+    <string name="drift_smooth">Geser Halus</string>
+    <string name="drift_instant">Lompat Langsung</string>
+    <string name="start_drift">Mulai Drift</string>
+    <string name="stop_drift">Hentikan Drift</string>
+
+    <!-- Bookmarks -->
+    <string name="bookmarks">Titik Tersimpan</string>
+    <string name="save_bookmark">Simpan Lokasi</string>
+    <string name="bookmark_name">Nama Lokasi</string>
+    <string name="bookmark_category">Kategori</string>
+    <string name="bookmark_notes">Catatan / Keterangan</string>
+    <string name="no_bookmarks">Belum ada lokasi tersimpan</string>
+
+    <!-- Import / Export -->
+    <string name="import_export">Impor / Ekspor</string>
+    <string name="export_csv">Ekspor CSV</string>
+    <string name="export_kml">Ekspor KML</string>
+    <string name="import_data">Impor Berkas / Data</string>
+    <string name="share_file">Bagikan Berkas</string>
+    <string name="copy_clipboard">Salin ke Papan Klip</string>
+
+    <!-- Search -->
+    <string name="search_hint">Cari kota, alamat, atau tempat...</string>
+    <string name="search_presets">Tempat Populer Dunia</string>
+
+    <!-- Developer Options -->
+    <string name="dev_options_title">Pengaturan Lokasi Tiruan</string>
+    <string name="dev_options_msg">Untuk memalsukan GPS, GeoShift harus dipilih sebagai \'Aplikasi lokasi tiruan\' di Opsi Pengembang Android.</string>
+    <string name="open_dev_options">Buka Opsi Pengembang</string>
+
+    <!-- Settings -->
+    <string name="settings">Pengaturan</string>
+    <string name="theme">Tema Tampilan</string>
+    <string name="language">Bahasa</string>
+    <string name="theme_system">Sistem</string>
+    <string name="theme_light">Terang</string>
+    <string name="theme_dark">Gelap</string>
+</resources>
